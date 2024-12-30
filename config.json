@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com",
+    "tw_url":"https://twitter.com",
+  
+    "gh_url":"https://github.com",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "batch26",
+    "password": "batch26",
+    "login_image": "aple.jpg"
+
+  }
+}
